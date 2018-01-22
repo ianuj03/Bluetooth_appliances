@@ -1,5 +1,6 @@
 # Bluetooth_appliances
 Bluetooth Controlled Electric Appliances.
+
 In order to connect electric appliance working with AC 220V power supply, we need a module named Relay.
 Relay has two mode of operation: Normally Open and Normally close.
 In total, a relay has three output PIN: Common connection, Normally Open, and Normally close.
