@@ -13,7 +13,7 @@ GND- Connect this to Ground; and
 IN1- Connect to any digital PIN except PIN-0. (Trigger pin for Relay)
 
 NO- Connect this to appliance from the switch board;
-COM- Connect this to live wire; and
+COM- Connect this to the Live wire; and
 NC- No connection leave it open.
 ```
 
