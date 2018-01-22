@@ -1,11 +1,11 @@
 #include<SoftwareSerial.h>
 SoftwareSerial BT(8,9);//Tx,Rx
-#define LIGHT 2
-#define FAN 3
+#define LIGHT 2 //IN1
+#define FAN 3 //IN2
 void setup(){
   pinMode(LIGHT,OUTPUT);
   pinMode(FAN,OUTPUT);
-  BT.begin(38400);
+  BT.begin(38400);//Standard Baud Rate
   delay(500);
   BT.write("Enter the Appliance: ");
 }
