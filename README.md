@@ -5,7 +5,7 @@ Relay has two mode of operation: Normally Open and Normally close.
 In total, a relay has three output PIN: Common connection, Normally Open, and Normally close.
 Apart from this, the module has three other pins that need to be connected to the Arduino. These pins are: VCC, GND, and IN1.
 
-###Connection:
+### Connection:
 ```
 VCC- Connect this to 5V of Arduino;
 GND- Connect this to Ground; and
