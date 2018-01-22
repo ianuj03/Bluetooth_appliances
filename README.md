@@ -25,4 +25,4 @@ NC- No connection leave it open.
 ```
 Make the AC Connection same for both the appliance.
 
-For this experiment, I have connected the appliance to Normally Open. Because, when you digitally write IN1 HIGH this will give power supply to the appliance.
+For this experiment, I have connected the appliance to Normally Open. Because, when you digitally write IN1/IN2 HIGH this will give power supply to the respective appliance.
