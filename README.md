@@ -16,7 +16,7 @@ You can build your own App and then control but for this experiment I'll be usin
 It's only for Android user, iOS made me puzzled.
 
 ## Connection:
-##### Rellay: 
+### Rellay: 
 > Digital Connection
 ```
 VCC- Connect this to 5V of Arduino;
@@ -35,7 +35,7 @@ NC- No connection leave it open.
 
 For this experiment, I have connected the appliance to Normally Open. Because, when you digitally write IN1/IN2 HIGH this will give power supply to the respective appliance.
 
-##### HC05:
+### HC05:
 ```
 VCC- Connect this to 5V of Arduino board;
 GND- Connect this to GND of Arduino board;
